@@ -1,0 +1,6 @@
+@ApiH3v3_HostAddress = http://localhost:5096
+
+GET {{ApiH3v3_HostAddress}}
+Accept: application/json
+
+###
